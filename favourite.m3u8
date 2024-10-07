@@ -1,1 +1,33 @@
+#EXTM3U
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s HD
+http://181.176.153.106:8090/play/a0qr/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
+http://168.181.122.234:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
+http://u.vipl.one/high/mwxyvd8tpz/494.m3u8 
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/31MPLIL.png",БелМуз [720x576]
+http://178.124.179.122:8088/BelMuzTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/31MPLIL.png",БелМуз [720x576]
+http://178.124.179.122:8088/BelMuzTV/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery [1440x1080]
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic [720x576]
+http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic [720x576]
+http://stream02.vnet.am/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic
+https://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild [720x576]
+http://stream02.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild [720x576]
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild [720x576]
+http://stream02.vnet.am/NatGeoWild/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cartoon_Network_logo_%281992-2010%29_%28v2%29.svg/640px-Cartoon_Network_logo_%281992-2010%29_%28v2%29.svg.png",Cartoon Network
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
