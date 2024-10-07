@@ -1,4 +1,5 @@
-#EXTINF:-1,MTV 00s HD
+#EXTM3U
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s HD
 http://181.176.153.106:8090/play/a0qr/index.m3u8
-#EXTINF:-1,MTV 00s
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
 http://168.181.122.234:8000/play/a030/index.m3u8
