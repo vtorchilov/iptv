@@ -21,3 +21,9 @@ http://181.78.105.146:6060/play/a011
 http://181.78.105.146:8800/play/a029
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
 http://45.5.116.178:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
+http://ukr.seetv.cc/play/278/6C79C1AAFA64E87/video.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
+http://rhsbjv7k.tvclub.xyz/iptv/6ESD8RFEN3KF87/31559/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
+http://83.4.92.147:9981/stream/channelid/1316007193?profile=pass
