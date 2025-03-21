@@ -20,3 +20,5 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 http://91.146.94.234:10000/play/a042
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery East (Eng)
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery HD
+https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
