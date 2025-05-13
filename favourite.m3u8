@@ -1,6 +1,6 @@
 #EXTM3U
 
-# UPDATED 2025.03.21 UPDATED #
+# UPDATED 2025.05.13 UPDATED #
 
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cartoon_Network_logo_%281992-2010%29_%28v2%29.svg/640px-Cartoon_Network_logo_%281992-2010%29_%28v2%29.svg.png",Cartoon Network
@@ -22,3 +22,12 @@ http://91.146.94.234:10000/play/a042
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery HD
 https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic
+http://s7.merlive.am/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Merlive",Discovery HD
+http://s7.merlive.am/discovery/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery) East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels",ID (Investigation Discovery) East
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (Investigation Discovery) West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels",ID (Investigation Discovery) West
+http://supersonictv.live:8080/242306/210404/22111
