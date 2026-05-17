@@ -10,6 +10,8 @@ https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery
+http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Детские",Cartoon Network
 https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
